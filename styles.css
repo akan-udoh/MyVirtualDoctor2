@@ -163,7 +163,7 @@ nav a:hover::after {
 
 
 
-.button a {
+.button a, flex-button {
   text-decoration: none;
   color: #fff;
   background-color: #007bff;
