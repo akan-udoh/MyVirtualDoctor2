@@ -1,2 +1,2 @@
-# MyVirtualDoctor2
-Healthcare project on responsiveness
+# MyVirtualDoctor
+'Accessible Healthcare Anytime Anywhere' site
